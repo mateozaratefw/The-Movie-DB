@@ -1,0 +1,19 @@
+{
+  "name": "curso-consumo-apis.v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/mateozaratefw/The-Movie-DB.git)"
+  },
+  "keywords": [
+    "API",
+    "MOVIE"
+  ],
+  "author": "Mateo Zarate <mateozaratefw@gmail.com>",
+  "license": "MIT"
+}

@@ -50,6 +50,3 @@ async function getCategoriesMoviesPreview() {
         previewCategoriesContainer.appendChild(categoryContainer);
     });
 }
-
-getTrendingMoviesPreview();
-getCategoriesMoviesPreview();

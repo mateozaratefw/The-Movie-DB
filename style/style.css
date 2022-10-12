@@ -346,18 +346,15 @@ button {
 footer {
   background-color: var(--purple-medium-3);
   color: var(--purple-light-2);
-  text-align: center;
+  text-align: start;
   height: 48px;
   display: flex;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
 }
 
 .footer-ul {
-    display: inherit;
-    align-items: flex-start;
-    justify-content: flex-start;
-    margin: 0 auto;
+  display: flex;
     gap: 20px;
     list-style: none;
 }

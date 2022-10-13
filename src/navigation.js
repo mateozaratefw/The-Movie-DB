@@ -11,9 +11,7 @@ arrowBtn.addEventListener('click', () => {
 window.addEventListener('DOMContentLoaded', navigator(), false);
 window.addEventListener('hashchange', () => navigator());
 
-function navigator() {
-    console.log({ location });
-    
+function navigator() {    
     if (location.hash.startsWith('#trends')) {
         trendsPage()
     } else if (location.hash.startsWith('#search=')) {

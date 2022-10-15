@@ -108,6 +108,7 @@ button {
 
 .movie-img {
   border-radius: 8px;
+  min-height: 175px;
 }
 
 .categoriesPreview-list, .categories-list {
@@ -339,8 +340,6 @@ button {
   min-height: 187.5px;
   max-height: 187.5px;
 }
-  
-
 /* Footer */
 footer {
   background-color: var(--purple-medium-3);
@@ -357,7 +356,6 @@ footer {
     gap: 20px;
     list-style: none;
 }
-
 
 /* Navigation */
 .inactive {
